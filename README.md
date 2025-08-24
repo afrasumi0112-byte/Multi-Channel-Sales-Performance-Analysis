@@ -1,10 +1,11 @@
 # Multi-Channel-Sales-Performance-Analysis (Interactive Dashboard creation using MS Excel)
 
 ## Project Objective
-The objective of the project is to provide a comprehensive analysis of multi-channel sales performance to understand which platforms contribute most significantly to revenue, detect underperforming channels, and highlight oppurtunities for improving sales strategy.
+The objective of the project is to measure and analyze sales across multiple distribution channels,assess their impact on business performance, and deliver actionable insights for enhamcing profitability and customer engagement.  
 
 ## Dataset used
 - <a href="https://github.com/afrasumi0112-byte/Multi-Channel-Sales-Performance-Analysis/blob/main/multi%20channel%20data.xlsx">Dataset</a>
+
 ## Tool used
        MS Excel
        
@@ -17,13 +18,11 @@ Who purchased more - Men or Women?
 
 What are the different order status?
 
-List top 10 states contributing to the sales
+List top 5 states contributing to the sales
 
 Relation between age and gender based on number of orders.
 
 Which Channel is contributing maximum to the sales?
-
-Highest selling category
 
 Percentage of Total Orders delivered
 
@@ -42,7 +41,7 @@ Percentage of Total Orders delivered
 - The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
 - The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
 - More than 90% of the products delivered
-- 
+ 
 ## Final Conclusion
 To improve the sales, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
 
