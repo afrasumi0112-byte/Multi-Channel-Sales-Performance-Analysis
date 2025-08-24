@@ -7,7 +7,7 @@ The objective of the project is to measure and analyze sales across multiple dis
 - <a href="https://github.com/afrasumi0112-byte/Multi-Channel-Sales-Performance-Analysis/blob/main/multi%20channel%20data.xlsx">Dataset</a>
 
 ## Tool used
-       MS Excel
+       Microsoft Excel
        
 ## Questions (KPIs)
 Compare the sales and orders using single chart
