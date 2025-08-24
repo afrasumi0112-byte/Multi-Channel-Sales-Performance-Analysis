@@ -1,7 +1,7 @@
 # Multi-Channel-Sales-Performance-Analysis (Interactive Dashboard creation using MS Excel)
 
 ## Project Objective
-The objective of the project is to measure and analyze sales across multiple distribution channels,assess their impact on business performance, and deliver actionable insights for enhamcing profitability and customer engagement.  
+The objective of the project is to measure and analyze sales across multiple distribution channels,assess their impact on business performance, and deliver actionable insights for enhancing profitability and customer engagement.  
 
 ## Dataset used
 - <a href="https://github.com/afrasumi0112-byte/Multi-Channel-Sales-Performance-Analysis/blob/main/multi%20channel%20data.xlsx">Dataset</a>
