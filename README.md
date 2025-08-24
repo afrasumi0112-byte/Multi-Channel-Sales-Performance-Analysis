@@ -34,5 +34,6 @@ Percentage of Total Orders delivered
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
   
 ## Dashboard
-<img width="1235" height="556" alt="Dashboard" src="https://github.com/user-attachments/assets/2e5da81b-78c3-444e-a090-2537b3fd14f0" />
+<img width="1235" height="556" alt="Dashboard" src="https://github.com/user-attachments/assets/2de52148-5a2a-4d8f-8a49-27b8293dd746" />
+
 
