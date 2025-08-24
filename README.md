@@ -9,7 +9,7 @@ The objective of the project is to measure and analyze sales across multiple dis
 ## Tool used
        Microsoft Excel
        
-## Questions (KPIs)
+## KPI's Requirements
 Compare the sales and orders using single chart
 
 Which month got the highest sales and orders?
