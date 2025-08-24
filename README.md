@@ -28,12 +28,21 @@ Highest selling category
 Percentage of Total Orders delivered
 
 ## Process
-- Verify data for any missing values and anomalies, and sort out the same.
+- Verified data for any missing values and anomalies, and sorted out the same.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
 - Created pivot tables according to the questions asked.
-- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+- Merged all pivot tables into one dashboard and applied slicers to make dynamic.
   
 ## Dashboard
-<img width="1235" height="556" alt="Dashboard" src="https://github.com/user-attachments/assets/2de52148-5a2a-4d8f-8a49-27b8293dd746" />
+<img width="1255" height="560" alt="Screenshot 2025-08-24 at 1 41 27 PM" src="https://github.com/user-attachments/assets/7a0015f1-71cb-493f-be77-e7034bbe86f9" />
 
+## Project Insights
+- Women customers are more likely to buy products compared to men (~65%).
+- The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
+- The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
+- The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
+- More than 90% of the products delivered
+- 
+## Final Conclusion
+To improve the sales, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
 
